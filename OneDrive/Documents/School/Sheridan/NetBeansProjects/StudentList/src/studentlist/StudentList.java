@@ -19,7 +19,7 @@ public class StudentList {
         System.out.println("A simple app");
 
         // create an array of 2 Students
-        Student[] students = new Student[2];
+        Student[] students = new Student[3];
 
         for (int i = 0; i < students.length; i++) {
 
